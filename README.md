@@ -1,2 +1,2 @@
-# GoogleAgentDevelopmentKit-ADK-
+# GoogleAgentDevelopmentKit-ADK
 Google ADK
