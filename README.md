@@ -34,3 +34,7 @@ This repository provides code examples and documentation to help you get started
     * Google API Key (for Gemini)
     * OpenAI API Key (for GPT models, if used)
     * Anthropic API Key (for Claude models, if used)
+
+## 📖 References
+- **Google ADK Documentation:**  
+  [Getting Started with Google ADK](https://google.github.io/adk-docs/get-started/)
